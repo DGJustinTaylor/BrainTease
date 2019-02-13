@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/menFactList"
+        android:title="Fact List"
+        android:icon="@drawable/ic_school_black_24dp">
+    </item>
+
+    <item
+        android:id="@+id/menJokeList"
+        android:title="Joke List"
+        android:icon="@drawable/ic_sentiment_very_satisfied_black_24dp">
+    </item>
+
+    <item
+        android:id="@+id/menPreferences"
+        android:title="Preferences"
+        android:icon="@drawable/ic_settings_black_24dp">
+    </item>
+</menu>
